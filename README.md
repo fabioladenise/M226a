@@ -37,11 +37,14 @@ Hans.Rasse = "Arravani"
 
 #Methoden
 class Pferd:
-  def springen():
-  
-  def essen():
-  
-  def laufen():
+  def springen(self):
+    self.springen
+    
+  def essen(self):
+     self.essen
+     
+  def laufen(self):
+    self.laufen
 ```
 
 ![image](https://user-images.githubusercontent.com/89509863/140812688-b3e5d820-24c7-4b88-b378-049b10f879e2.png)

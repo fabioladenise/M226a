@@ -17,14 +17,33 @@ Klasse: Pferd
 Objekt: Hans
 
 Seine Attribute:
-Hans ist Braun.
-Hans höchst Geschwindigkeit ist 20Km/h.
-Hans ist ein Arravani.
+- Hans ist Braun.
+- Hans höchst Geschwindigkeit ist 20Km/h.
+- Hans ist ein Arravani.
 
 Methoden:
-Hans kann springen.
-Hans kann essen.
-Hans kann laufen.
+- Hans kann springen.
+- Hans kann essen.
+- Hans kann laufen.
+
+``` python
+
+Hans = Pferd()
+
+#Attribute
+Hans.Farbe = "Braun"
+Hans.Geschwindigkeit = 20
+Hans.Rasse = "Arravani"
+
+#Methoden
+
+class Pferd:
+  def springen():
+  
+  def essen():
+  
+  def laufen():
+```
 
 
 

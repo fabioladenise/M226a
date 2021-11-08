@@ -57,8 +57,13 @@ Unser Programm sollte ein OnlineShop werden, für Kleidung. Es sollte eine Artik
 
 Im Hintergrund nicht für den Kunden Sichtbar aber für einen Mitarbeiter, den Lagerbestand. Der Mitarbeiter kann eingeliefte Waren in den Lagerbestand aufnehmen und entfernen. Dies ermöglicht den einkäufer einen überblick zu erschaffen. Bei einem Einkauf sollten auch die Waren im Lager minimiert werden.
 
+
 ### Diagramme
+
+![image](https://user-images.githubusercontent.com/89509863/140818165-b86323bc-b000-4d56-a057-87326df3759e.png)
+
+### Unser Programm
 
 ### OO-Konzepte
 
-### Reflektion
+### Reflextion

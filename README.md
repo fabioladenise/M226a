@@ -6,9 +6,9 @@ Im Modul M226a geht es um Objekt basiertes Programmieren.
 
 Beim Objektorientes programmieren werden Programme in Gruppen unterteilt, diese werden Objekte gennent. Jedes Objekt in einer Klasse wird gleich aufgebaut, sie haben alle verschiedene Eigenschaften, aber die gleichen Attributen. Jedes Objekt hat ihre Aufgaben/Funktionen, die man Methoden nennt. Mit diesen Methoden kann man Daten verändern und zu seinen Zweck nutzen.
 
-Zum verdeutlichen, werden wir ein pferd als beispiel nehmen:
+***Beispiel***
 
-Unsere Klasse nennt sich Pferd
+Zum verdeutlichen, werden wir ein Pferd als beispiel nehmen:
 
 Das erste Pferd nennen wir Hans.
 

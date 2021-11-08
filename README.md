@@ -36,7 +36,6 @@ Hans.Geschwindigkeit = 20
 Hans.Rasse = "Arravani"
 
 #Methoden
-
 class Pferd:
   def springen():
   

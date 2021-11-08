@@ -44,6 +44,7 @@ class Pferd:
   def laufen():
 ```
 
+![image](https://user-images.githubusercontent.com/89509863/140812688-b3e5d820-24c7-4b88-b378-049b10f879e2.png)
 
 
 

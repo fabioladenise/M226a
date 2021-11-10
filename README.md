@@ -67,6 +67,16 @@ Im Hintergrund nicht für den Kunden Sichtbar aber für einen Mitarbeiter, den L
 
 ### Unser Programm
 
+
 ### OO-Konzepte
 
+***Delegation***
+
+Delegation ist die weitergabe von Befehlen von höheren Klassen.
+
+![image](https://user-images.githubusercontent.com/89509863/141179737-12ab1e2c-b69d-4105-ae5d-d9c0bc02d408.png)
+
+In diesem Beispiel gibt man dem Haus das Befehl, dass alle blaue Türen geschlossen werden sollen. Dieses Haus, gibt dem Raum den Befehl alle blauen Türen schlissen.
+
+***Encapsulation***
 ### Reflextion

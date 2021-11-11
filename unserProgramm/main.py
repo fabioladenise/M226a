@@ -1,3 +1,4 @@
+#importiert die Klassen
 from Stock import Stock
 from Product import Product
 from productInstock import ProductInStock
@@ -5,7 +6,7 @@ from ShoppingCart import ShoppingCart
 from ProductInCart import ProductInCart
 
 stock = Stock()
-
+#erstellt Produkt nr1
 product = Product()
 product.productname ="Tshirt"
 product.price = 20
@@ -18,7 +19,7 @@ inStock.amount = 10
 stock.add(inStock)
 
 
-
+#erstellt Produkt nr1
 product2 = Product()
 product2.productname ="Tshirt"
 product2.price = 25

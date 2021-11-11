@@ -79,4 +79,18 @@ Delegation ist die weitergabe von Befehlen von höheren Klassen.
 In diesem Beispiel gibt man dem Haus das Befehl, dass alle blaue Türen geschlossen werden sollen. Dieses Haus, gibt dem Raum den Befehl alle blauen Türen schlissen.
 
 ***Encapsulation***
+
+Man versteck die Variabeln von einer Klasse, somit können die anderen Kapseln nicht in die anderen Klassen einsehen.
+
+***Exceptions***
+Bei Ausnahmen ensteht eine Fehlermelung und diese stoppt das Programm. Die Exceptions verhindert dies und tut Ausnamehn ignorieren, damit das Programm weiter fahren kann.
+
+***Static***
+
+Auf statische Methoden kann zugegriffen werden, ohne dass ein Objekt erstellt werden muss.
+
+***Final***
+
+Die Variabeln bleiben konstant und können sich nicht verändern.
+
 ### Reflextion

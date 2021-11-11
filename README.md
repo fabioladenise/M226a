@@ -94,3 +94,9 @@ Auf statische Methoden kann zugegriffen werden, ohne dass ein Objekt erstellt we
 Die Variabeln bleiben konstant und können sich nicht verändern.
 
 ### Reflextion
+Mit dem Ergebnis der Gruppenarbeit sind wir zufrieden. Wir haben beide viel Zeit in unser Programm gesteckt und unser Bestes gegeben(auch wenn unser Programm nur teilweise funktioniert). Leider haben wir weder in der Schule noch im Betrieb gross mit Python, Java oder C# gearbeitet, deshalb fällt es uns etwas schwer das ganze umzusetzen. 
+Von dem Theorieteil konnten wir jedoch sehr viel mitnehmen. Wir haben gelernt was Objektorientierte Programmierung ist und wie man das ganze Planen kann anhand eines Klassendiagramms. Ausserdem wissen wir den Unterschied zwischen Klassen und Objekten. 
+Bei unserem Programm sind wir viel mit der Hilfe von Herr Nussle vorangekommen. YouTube und Google waren auch noch eine Hilfe. Wir haben 7 verschieden Klassen eingebunden und versucht Produkte zu erstellen. Wir haben das Skript und auch andere Beispiele versucht zu analysieren, um alles nachvollziehen zu können.
+Die aufgaben haben wir uns nicht aufgeteilt, sondern wir haben alles gemeinsam erarbeitet
+ 
+

@@ -1,3 +1,4 @@
+#importiert die Klasse 
 from Stock import Stock
 from Product import Product
 from productInstock import ProductInStock
